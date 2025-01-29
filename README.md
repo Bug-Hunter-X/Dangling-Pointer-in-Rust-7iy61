@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust programming: creating dangling pointers. The `bug.rs` file shows the error, while `bugSolution.rs` provides a safer alternative.
